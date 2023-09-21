@@ -5,7 +5,7 @@
 PRESS TO PLAY
 https://vikipicky.github.io/Weather-API/
 
-This is a Tetris game created using HTML, CSS, and JavaScript. The game is inspired by the classic Tetris game and is designed to provide a simple, yet engaging gaming experience.
+This is a Weather API  created using HTML, CSS, and JavaScript. It also finds and displays images appropriate to the city. 
 
 Attributions
 N/A
